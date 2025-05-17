@@ -1,1 +1,2 @@
 # Cabin-Management-System
+The Cabin Management System utilizes advanced machine learning techniques to detect individuals via an ESP32 camera. It automatically controls the lights and fans based on the presence of people, ensuring energy efficiency. Additionally, it logs interaction details, such as presence detection and environmental adjustments, on an HTML-based website for easy monitoring. This system enhances cabin automation, improves comfort, and optimizes resource usage.
